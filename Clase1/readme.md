@@ -1,5 +1,20 @@
 # Referencias
 
+
+
+## ref de Clase
+
+* https://www.ibm.com/co-es/cloud/learn/rest-apis
+* https://www.redhat.com/es/topics/api/what-is-a-rest-api
+* https://aws.amazon.com/es/api-gateway/
+* https://aws.amazon.com/es/what-is/restful-api/
+* https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask
+
+
+
+## Generales
+
+
 * https://rapidapi.com/blog/
 
 * https://pragprog.com/titles/maapis/design-and-build-great-web-apis/
